@@ -5,19 +5,19 @@ html
 
 body
 {
-    background-color: #2f2f2b;
+    background-color: #000000;
     font-family: 'Montserrat', sans-serif, Arial;
     font-size: 20px; 	
     line-height: 35px;
     font-weight: 400;	
-    color: #121212;
+    color: #000000;
     letter-spacing: -1px;
 }
 
 body a
 {
     text-decoration: none;
-    color: #121212; 
+    color: #000000; 
 }
 
 body a, body input, body button

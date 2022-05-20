@@ -359,12 +359,12 @@ body.blog .more-posts
 
 .carousel_pagination a:hover
 {
-    background-color: #f5de87;
+    background-color: #ffffff;
 }
 
 .carousel_pagination a.selected
 {
-    background-color: #f5de87;
+    background-color: #ffffff;
 }
 
 .page-desc

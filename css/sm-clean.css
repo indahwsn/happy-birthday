@@ -8,7 +8,6 @@
 }
 .sm-clean a, .sm-clean a:hover, .sm-clean a:focus, .sm-clean a:active {
     padding: 13px 20px;
-    /* make room for the toggle button (sub indicator) */
     padding-right: 58px;
     font-size: 18px;
     font-weight: normal;
@@ -113,7 +112,7 @@
 
 .main-menu ul 
 {
-    width: 12em; /* fixed width only please - you can use the "subMenusMinWidth"/"subMenusMaxWidth" script options to override this if you like */
+    width: 12em; /
 }
 
 .sm-clean a, .sm-clean a:hover, .sm-clean a:focus, .sm-clean a:active
